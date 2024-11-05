@@ -1,0 +1,10 @@
+[package]
+name = "buri"
+description = "A game engine"
+version = "0.1.0"
+edition = "2021"
+repository = "https://github.com/gkhk0/buri"
+readme = "README.md"
+license = "MIT"
+
+[dependencies]
